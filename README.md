@@ -85,7 +85,7 @@ Tenho projetos em produção que vão da API ao front-end, com autenticação JW
 ### 🏅 Certificações & Cursos
 
 <div align="center">
-  <img src="cisco-badge.png" width="150" alt="Cisco Introduction to Cybersecurity" />
+  <img src="cisco-badge.png.png" width="150" alt="Cisco Introduction to Cybersecurity" />
 </div>
 
 - 🔐 **Cisco Networking Academy** · Introduction to Cybersecurity (2026)
