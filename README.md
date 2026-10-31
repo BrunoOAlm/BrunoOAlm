@@ -34,7 +34,7 @@ Tenho projetos em produção que vão da API ao front-end, com autenticação JW
 - Painel administrativo com alerta sonoro de pedidos e front-end entregue como **PWA instalável**
 - Em produção com custo zero (Vercel, Render e Neon)
 
-🔗 [Ver online](https://braga-s-burger.vercel.app) · [Código](LINK-DO-REPOSITORIO-BRAGAS)
+🔗 [Ver online](https://braga-s-burger.vercel.app)
 
 #### 🥗 PratoScan · Contador de calorias com IA
 `Next.js` `TypeScript` `Prisma` `PostgreSQL`
@@ -43,7 +43,6 @@ Tenho projetos em produção que vão da API ao front-end, com autenticação JW
 - Integração com **LLM** usando saída estruturada **validada por schema**
 - Autenticação com **NextAuth**, **CI com GitHub Actions** e deploy na **Vercel**
 
-🔗 [Ver online](LINK-DO-PRATOSCAN) · [Código](LINK-DO-REPOSITORIO-PRATOSCAN)
 
 ---
 
@@ -86,9 +85,7 @@ Tenho projetos em produção que vão da API ao front-end, com autenticação JW
 ### 🏅 Certificações & Cursos
 
 <div align="center">
-  <a href="LINK-DO-BADGE-NO-CREDLY">
-    <img src="assets/cisco-intro-cybersecurity.png" width="150" alt="Cisco Introduction to Cybersecurity" />
-  </a>
+  <img src="cisco-badge.png" width="150" alt="Cisco Introduction to Cybersecurity" />
 </div>
 
 - 🔐 **Cisco Networking Academy** · Introduction to Cybersecurity (2026)
