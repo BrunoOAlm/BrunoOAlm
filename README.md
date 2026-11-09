@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+com+foco+em+Java;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Estudante+de+ADS+%7C+FAETERJ-Rio" alt="Typing SVG" />
 
+[![Portfólio](https://img.shields.io/badge/Ver%20meu%20portf%C3%B3lio-%230f3460.svg?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://brunoportfolio.pages.dev)
+
 </div>
 
 ---
@@ -20,6 +22,7 @@ Tenho projetos em produção que vão da API ao front-end, com autenticação JW
 - 🔭 Buscando **estágio em Desenvolvimento Full Stack ou Back-end Java**
 - 🌱 Estudando agora: **IA generativa** e **cibersegurança**
 - 🌎 Rio de Janeiro, Brasil · Inglês avançado
+- 🌐 Portfólio: [brunoportfolio.pages.dev](https://brunoportfolio.pages.dev)
 
 ---
 
@@ -43,6 +46,7 @@ Tenho projetos em produção que vão da API ao front-end, com autenticação JW
 - Integração com **LLM** usando saída estruturada **validada por schema**
 - Autenticação com **NextAuth**, **CI com GitHub Actions** e deploy na **Vercel**
 
+📂 Veja todos os meus projetos no [portfólio](https://brunoportfolio.pages.dev/projetos)
 
 ---
 
@@ -112,6 +116,7 @@ Tenho projetos em produção que vão da API ao front-end, com autenticação JW
 
 <div align="center">
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%230f3460.svg?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://brunoportfolio.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunooliveiradealmeida/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoOAlm)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoalm75@gmail.com)
